@@ -7,8 +7,9 @@
 </head>
 <body>
     <h1> hello world</h1>
-    <p>lorem<p>
+     <p>lorem<p>
         <li>satu</li>
         <li>dua</li>
+        <li>tiga</li>
 </body>
 </html>
